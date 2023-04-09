@@ -1,0 +1,32 @@
+body {
+  font-family: "Nunito", sans-serif;
+  margin: 0;
+  padding: 0;
+}
+#cv-form
+{
+  /* display: none; */
+}
+.myProfile{
+  background-color: aliceblue;
+  height: 100vh;
+  border-right: 1px solid rgba(191, 199, 205, 0.404);
+  padding: 20px 10px;
+}
+
+
+
+
+.resumeContainer
+{
+  margin-top: 14px;
+  display: none;
+}
+.resumeContainer .myImg{
+  width: 100px;
+  height: 100px;
+  border-radius: 50%;
+}
+.right{
+ 
+}
